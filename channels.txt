@@ -65,6 +65,8 @@ http://127.0.0.1:6878/ace/getstream?id=d475208e72b5a343080afa0724c7b7c42264b9a0
 http://127.0.0.1:6878/ace/getstream?id=01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 720
 http://127.0.0.1:6878/ace/getstream?id=fce88ddb0aca4a0869ecd23bdf0bddc288d95260
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,Cadiz vs Barcelona
+http://127.0.0.1:6878/ace/getstream?id=https://mvk@0bc1667cc86a.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.665154753853.channel.OX5Pdko309jy.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1zb3V0aC0xOjY2NTE1NDc1Mzg1MzpjaGFubmVsL09YNVBka28zMDlqeSIsImF3czphY2Nlc3MtY29udHJvbC1hbGxvdy1vcmlnaW4iOiJodHRwOi8vd3d3LmZvb3R5LnRvIiwiaWF0IjoxNjYyNzk0NzkyLCJleHAiOjE2NjI5Njc1OTJ9.UiT1hcYEt902tWy1bUmp1Katgc9HjmejZ1FXV2syMn57585zjPwlrTo67Iwk8iltgt9d9JEiyPzvonztQVqyZi5g74lYnUEAC0jLe3Alipl2mUY8CRBIz9wNLc5QxicK
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES HD
 http://127.0.0.1:6878/ace/getstream?id=3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,LIGA DE CAMPEONES 2
