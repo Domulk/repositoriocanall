@@ -189,5 +189,3 @@ http://127.0.0.1:6878/ace/getstream?id=9a8c5485a38e9399e81b3eed23e588946946039f
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Gran Premio Animoca Brands de Aragón de MotoGP
 http://127.0.0.1:6878/ace/getstream?id=https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652513771~exp=9007200907254762~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=a54be8ca9a9c9515a7018abf9226d7ff847d7ced92856f0a9feed5382cb00e0b
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Alemania-España  
-http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/m/02bffa698af5e48c70e5d57effddb0c7f377090d/8a15ac28b4dff76270e2a6d95ebfcbb8.m3u8
