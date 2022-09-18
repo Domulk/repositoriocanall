@@ -11,6 +11,14 @@ http://127.0.0.1:6878/ace/getstream?id=c72263175266c90d376dcb8607c28e02939c1873
 http://127.0.0.1:6878/ace/getstream?id=c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn LaLiga multiaudio
 http://127.0.0.1:6878/ace/getstream?id=acefcfb8ec308c1ae5e66ccfc13a09bfbc6caa09
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn Liga 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=df98650743f24a245c44cdf2851e57078f4c487a 
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn Liga test 1080 Multi  
+http://127.0.0.1:6878/ace/getstream?id=c72263175266c90d376dcb8607c28e02939c1873 
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn Liga 720  
+http://127.0.0.1:6878/ace/getstream?id=c35d2207792128fc0ae49c40e885c463f664dbce 
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LIGA_HD_M 
+http://127.0.0.1:6878/ace/getstream?id=0a94ca1f63e144862248f4f00ea9044f5a5d0971 
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1
 http://127.0.0.1:6878/ace/getstream?id=b13deca329dfd6b9a670faba1077b73f6ea7e188
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 (Fórmula 1)
@@ -55,6 +63,10 @@ http://127.0.0.1:6878/ace/getstream?id=3b50977af3acb17ecd8e463a94888dfbaea028d2
 http://127.0.0.1:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccf
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,smartbank 2 1080 
 http://127.0.0.1:6878/ace/getstream?id=d475208e72b5a343080afa0724c7b7c42264b9a0
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,Smartbank 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccf 
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,smartbank 2 1080  
+http://127.0.0.1:6878/ace/getstream?id=d475208e72b5a343080afa0724c7b7c42264b9a0 
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 1080
 http://127.0.0.1:6878/ace/getstream?id=01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 720
@@ -109,7 +121,7 @@ http://127.0.0.1:6878/ace/getstream?id=91dce080463a5c6ee931fc5489a75ab54a5cb071
 http://127.0.0.1:6878/ace/getstream?id=87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES
 http://127.0.0.1:6878/ace/getstream?id=d580d53613be09c7a5388d808509f6c97ec07df2
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 1080
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 1080 
 http://127.0.0.1:6878/ace/getstream?id=069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 1080
 http://127.0.0.1:6878/ace/getstream?id=49acacbbbcf33be6e843958ceedc7da8dd4f1486
@@ -187,5 +199,7 @@ http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 http://127.0.0.1:6878/ace/getstream?id=9a8c5485a38e9399e81b3eed23e588946946039f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA Uruguay
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SmartBanck 720 
+http://127.0.0.1:6878/ace/getstream?id=24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3 
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Gran Premio Animoca Brands de Aragón de MotoGP
 http://127.0.0.1:6878/ace/getstream?id=https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652513771~exp=9007200907254762~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=a54be8ca9a9c9515a7018abf9226d7ff847d7ced92856f0a9feed5382cb00e0b
