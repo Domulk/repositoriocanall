@@ -13,6 +13,8 @@ http://127.0.0.1:6878/ace/getstream?id=df98650743f24a245c44cdf2851e57078f4c487a
 http://127.0.0.1:6878/ace/getstream?id=c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn LaLiga multiaudio
 http://127.0.0.1:6878/ace/getstream?id=acefcfb8ec308c1ae5e66ccfc13a09bfbc6caa09
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,https://megadeportes.live/en-vivo/dazn-la-liga/
+http://127.0.0.1:6878/ace/getstream?id=https://megadeportes.live/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2ZyL2JlaW4yLnBocA==
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn Liga test 1080 Multi 
 http://127.0.0.1:6878/ace/getstream?id=c72263175266c90d376dcb8607c28e02939c1873
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1
@@ -149,6 +151,12 @@ http://127.0.0.1:6878/ace/getstream?id=b779e6056975e3682a804d47cbd5cc806217f64d
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#vamos_720
 http://127.0.0.1:6878/ace/getstream?id=b888712c494a93739d4f275806d7e4feb4c6d2f8
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,https://megadeportes.live/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2ZyL2JlaW4yLnBocA==
+http://127.0.0.1:6878/ace/getstream?id=https://megadeportes.live/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2RrL3R2Ml9zcG9ydF94LnBocA==
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,https://megadeportes.live/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2RrL3R2Ml9zcG9ydF94LnBocA==
+http://127.0.0.1:6878/ace/getstream?id=https://megadeportes.live/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL25sL3ppZ2dvX3NlbGVjdC5waHA=
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,https://megadeportes.live/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL25sL3ppZ2dvX3NlbGVjdC5waHA=
+http://127.0.0.1:6878/ace/getstream?id=https://megadeportes.live/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL3JvL3ByaW1hc3BvcnQzLnBocA==
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EUROSPORT 1
 http://127.0.0.1:6878/ace/getstream?id=f8a77a75bf7572e360556339794d3d13fca8caa9
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EUROSPORT2
